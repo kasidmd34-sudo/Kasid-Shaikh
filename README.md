@@ -15,7 +15,6 @@
 - 🎓 I'm a **student** passionate about building things with code
 - 🤖 Currently exploring **Machine Learning & AI**
 - 🧠 Sharpening my **DSA** skills for competitive programming
-- 💬 Ask me about **Python, C++, or anything ML**
 - 📫 Reach me at: **[kasidmd34@gmail.com]**
 - ⚡ Fun fact: I debug with print statements and I'm proud of it
 
@@ -28,15 +27,8 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-### Web Development
-
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
 
 ### Data & ML
 
