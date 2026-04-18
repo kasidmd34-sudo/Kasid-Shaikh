@@ -51,19 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kasid Shaikh&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasid Shaikh&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasid Shaikh&theme=tokyonight&hide_border=true" width="55%"/>
-</p>
-
----
-
 ## 🏆 DSA Progress
 
 - ✅ Completed core Data Structures (Arrays, LinkedLists, Trees, Graphs)
