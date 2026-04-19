@@ -60,19 +60,6 @@
 
 ---
 
-## 🌱 Currently Learning
-
-```python
-currently_learning = {
-    "ML": ["Scikit-learn", "Neural Networks", "Model Deployment", "Data Visualization"],
-    "Web": ["JavaScript DOM", "Responsive Design"],
-    "DSA": ["Dynamic Programming", "Graph Algorithms"],
-    "DB":  ["Advanced MySQL queries", "Database design"]
-}
-```
-
----
-
 ## 📌 Featured Projects
 
 > 🚧 Projects coming soon — currently building something cool!
