@@ -14,7 +14,7 @@
 
 ---
 
-## 👋 Hey, I'm Kasid
+## Hey, I'm Kasid
 
 CS freshman who got hooked on how machines actually *learn* things. I'm not here to just watch tutorials — I'm building projects, solving problems, and figuring things out by breaking them first.
 
@@ -33,23 +33,23 @@ Currently in my first year at college, which means I have more curiosity than ex
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br><br>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br><br>
 
 **ML / Data**
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)<br><br>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)<br><br>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)<br><br>
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)<br><br>
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)<br><br>
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)<br><br>
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)<br><br>
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)<br><br>
 
 ---
 
@@ -64,34 +64,6 @@ Currently in my first year at college, which means I have more curiosity than ex
 > **What I learned:** [e.g. how to handle class imbalance, cross-validation, etc.]
 
 [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KasidShaikh/REPO-NAME)
-
----
-
-### ⚔️ DSA Solutions Repo
-> My personal LeetCode + Codeforces solutions, organized by topic and difficulty. Not a dump — actually commented.
-
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KasidShaikh/dsa-solutions)
-
----
-
-## 📊 DSA Progress
-
-<!-- 
-  REPLACE THIS LINK with your actual LeetCode username:
-  https://leetcode-badge-sage.vercel.app/badge/YOUR_USERNAME?theme=dark&border=6C63FF&ring=6C63FF
--->
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/YOUR_USERNAME/)
-
-| Topic | Status |
-|---|---|
-| Arrays, Strings, Hashing | ✅ Done |
-| Linked Lists, Stacks, Queues | ✅ Done |
-| Trees & Graphs | ✅ Done |
-| Sorting & Searching | ✅ Done |
-| Dynamic Programming | 🔄 In progress |
-| **Total problems solved** | **[Your number here]** |
 
 ---
 
@@ -123,26 +95,12 @@ Currently in my first year at college, which means I have more curiosity than ex
 
 ---
 
-## 🐍 Contribution Snake
-
-<!-- 
-  To enable this: 
-  1. Create folder .github/workflows/ in your profile repo
-  2. Create a file called snake.yml with the code from the README guide below
-  3. The snake will auto-generate on every push
--->
-
-![snake gif](https://github.com/KasidShaikh/KasidShaikh/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 📫 Let's Connect
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kasid-shaikh-04b971315/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-kasid-shaikh-04b971315/) <br><br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasidmd34@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/YOUR_USERNAME/)
 
 </div>
 
