@@ -20,10 +20,9 @@ CS freshman who got hooked on how machines actually *learn* things. I'm not here
 
 Currently in my first year at college, which means I have more curiosity than experience — but I'm fixing that fast.
 
-- 🧠 Learning: Supervised Learning, regression, classification, neural networks
-- ⚔️ Grinding: LeetCode + Codeforces — arrays, trees, DP (it hurts, I continue)
-- 🛠️ Stack: Python-first, C++ for speed, SQL when data gets relational
-- 🎯 Right now: Building a [project name] — [one sentence of what it actually does]
+- Learning: Supervised Learning, regression, classification, neural networks
+- Grinding: LeetCode + Codeforces — arrays, trees, DP (it hurts, I continue)
+- Stack: Python-first, C++ for speed, SQL when data gets relational
 - 📬 Email: kasidmd34@gmail.com
 - 💼 Open to: Remote internships, part-time roles, open source collabs
 
@@ -57,41 +56,12 @@ Currently in my first year at college, which means I have more curiosity than ex
 
 > These are real — not "coming soon." More being added every week.
 
-### 🔬 [Project Name] *(replace this)*
-> A [1-line description of what it does and why it's interesting]
+### 🔬 *IPL Data Analysis*
+> A comprehensive exploratory data analysis (EDA) of Indian Premier League (IPL) match data using Python. This project uncovers patterns in team performance, player statistics, and match trends across all IPL seasons.
 > 
-> **Built with:** Python, Pandas, Scikit-Learn  
-> **What I learned:** [e.g. how to handle class imbalance, cross-validation, etc.]
+> **Built with:** Python, Pandas, Matplotlib, Seaborn, Scikit-Learn  
 
-[![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KasidShaikh/REPO-NAME)
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<!-- Stats card — replace 'KasidShaikh' with your exact GitHub username -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KasidShaikh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&ring_color=6C63FF"/>
-
-<!-- Top languages card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasidShaikh&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<!-- Streak stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KasidShaikh&theme=tokyonight&hide_border=true&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" />
-
-</div>
-
-<div align="center">
-
-<!-- GitHub trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=KasidShaikh&theme=tokyonight&no-frame=true&column=6&margin-w=10" />
-
-</div>
+[![Repo](https://github.com/kasidmd34-sudo/IPL-Data-Analysis.git)
 
 ---
 
