@@ -54,8 +54,6 @@ Currently in my first year at college, which means I have more curiosity than ex
 
 ## 📌 Projects
 
-> These are real — not "coming soon." More being added every week.
-
 ### 🔬 *IPL Data Analysis*
 > A comprehensive exploratory data analysis (EDA) of Indian Premier League (IPL) match data using Python. This project uncovers patterns in team performance, player statistics, and match trends across all IPL seasons.
 > 
