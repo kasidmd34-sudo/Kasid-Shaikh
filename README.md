@@ -18,7 +18,7 @@
 
 CS freshman who got hooked on how machines actually *learn* things. I'm not here to just watch tutorials — I'm building projects, solving problems, and figuring things out by breaking them first.
 
-Currently in my first year at college, which means I have more curiosity than experience — but I'm fixing that fast.
+Currently in my Second year at college, which means I have more curiosity than experience — but I'm fixing that fast.
 
 - Learning: Supervised Learning, regression, classification, neural networks
 - Grinding: LeetCode + Codeforces — arrays, trees, DP (it hurts, I continue)
@@ -34,7 +34,7 @@ Currently in my first year at college, which means I have more curiosity than ex
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br><br>
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)<br><br>
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)<br><br>
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **ML / Data**
 
